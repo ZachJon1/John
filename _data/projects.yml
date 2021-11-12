@@ -2,23 +2,23 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/images/', and edit following img items.
 
-- name: My first project
-  gh_user: wildcat
+- name: ML Project Work 
+  gh_user: ZachJon1
   repo: project1
   file: # only needed if you want to directly link to just one file in a repo instead of the repo itself
   img: /images/file.png
-  desc: A basic project that was part of a course assignment 
+  desc: Predict user rating of books on Amazon 
 
 - name: My second project
-  gh_user: wildcat
-  repo: project2
+  gh_user: ZachJon1
+  repo: John
   file: 
   img: /images/file.png
-  desc: This projects highlights various GitHub features that are useful for any undergraduate student
+  desc: This projects highlights various GitHub features that are useful for a student
 
 - name: My third project
-  gh_user: wildcat
-  repo: project3
-  file: file.txt
+  gh_user: ZachJon1
+  repo: Incomplete
+  file: 
   img: /images/file.png
-  desc: This file contains data that I collected for a study
+  desc: Second Personal ML Project
